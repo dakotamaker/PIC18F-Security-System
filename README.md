@@ -1,4 +1,4 @@
-# PIC18F-Security-System
+# PIC18F-Security-System-And-Traffic-Light
 The makefile and asm file to correctly run a "security system" and traffic light simulation on a Microchip PIC18F. 
 The program utilizes interrupts instead of polling.
 
